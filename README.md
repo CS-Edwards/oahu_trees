@@ -31,6 +31,6 @@ Data will be added manually.
      style="float: left; margin-right: 10px;" />
 
 ### Graphia Vis
-<img src="oahu_viz_graphia.PNG"
+<img src="oahu_viz_graphia_2.PNG"
      alt="oahu_viz_graphia"
      style="float: left; margin-right: 10px;" />
