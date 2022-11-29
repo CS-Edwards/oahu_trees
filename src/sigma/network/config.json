@@ -3,13 +3,13 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "https://manoa.hawaii.edu/speakers/eric-topol/logo-2/",
+    "link": "https://cs-edwards.github.io/",
     "text": "Candace Edwards"
   },
   "text": {
-    "more": "Long draft draft draft",
-    "intro": "draft draft draft",
+    "more": "Taxonomic Classification of Oahu Tree Data",
+    "intro": "Oahu Tree Taxonomic Classification",
     "title": "Oahu Trees"
   },
   "legend": {

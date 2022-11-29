@@ -1,7 +1,6 @@
 * {
 padding: 0px;
 margin: 0px;
-
 }
 
 .cf:before, .cf:after {
@@ -25,7 +24,6 @@ html,body {
 	font-size: 12px;
 	font-family: sans-serif;
 	line-height:1.25em;
-	
 }
 
 .sigma-parent {
@@ -198,7 +196,7 @@ font-size:14px;
 #jisc {
 width: 71px;
 height: 56px;
-background-image: url('../images/jisc-logo-small.png');
+background-image: url('../images/git_repo.png');
 background-repeat: no-repeat;
 display:inline-block;
 }
@@ -210,7 +208,7 @@ display:inline-block;
 #oii {
 width: 227px;
 height: 56px;
-background-image: url('../images/oii_text.png');
+background-image: url('../images/uh_logo.png');
 background-repeat: no-repeat;
 display:inline-block;
 margin-right:10px;
