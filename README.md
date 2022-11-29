@@ -5,7 +5,7 @@ Oahu Trees is a visualization of the taxonomic relationship between the trees on
 The final result of the project is a tree (directed acyclic graph) of the oahu tree taxonomic heirarchy. 
 
 ## Notes:
-This all coding components of this project. This repository, presentation and write up were submitted on 11/30/22.
+Thisrepo contains all coding components of this project. This repository, presentation and write up were submitted on 11/30/22.
 
 ### Oahu Tree Data
 Sourced from ['Exceptional Trees on Oahu ' API]( https://dev.socrata.com/foundry/data.honolulu.gov/84fd-3fzf)
