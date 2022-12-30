@@ -4,7 +4,7 @@ Oahu Trees is a visualization of the taxonomic relationship between the trees on
 
 The final result of the project is an interactive tree (directed acyclic graph) of the oahu tree taxonomic heirarchy. 
 
-Clone repo and launch `index.html` locally, to interact with visualization. Click graph nodes to view relation and classification information or use the search box to find a specific tree and filter by group. 
+Clone repo and launch `src/sigma/network/index.html` locally, to interact with visualization. Click graph nodes to view relation and classification information or use the search box to find a specific tree and filter by group. 
 
 ## Notes:
 This repo contains all coding components of this project. This repository, presentation and write up were submitted on 11/30/22.
