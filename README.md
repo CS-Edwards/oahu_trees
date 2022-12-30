@@ -2,7 +2,9 @@
 This is the final project for for Data Visualization Fall '22. <br>
 Oahu Trees is a visualization of the taxonomic relationship between the trees on Oahu, Hawaii. The tree data is sourced from Exceptional Trees on Oahu API, and Wikipedia. The visualizations were built in both Gephi and Graphia.
 
-The final result of the project is a tree (directed acyclic graph) of the oahu tree taxonomic heirarchy. 
+The final result of the project is an interactive tree (directed acyclic graph) of the oahu tree taxonomic heirarchy. 
+
+Clone repo and launch `index.html` locally, to interact with visualization. Click graph nodes to view relation and classification information or use the search box to find a specific tree and filter by group. 
 
 ## Notes:
 This repo contains all coding components of this project. This repository, presentation and write up were submitted on 11/30/22.
